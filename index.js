@@ -9,8 +9,7 @@ document.addEventListener('DOMContentLoaded', () =>{
     
         let hibaUzenet = document.getElementById("hiba");
 
-        if()
-    
+        
         if(username.length <3){
             hibaUzenet.textContent = "Rövid username (min 3 karakter)";
         }
